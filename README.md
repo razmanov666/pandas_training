@@ -1,1 +1,1 @@
-# panas_training
+# pandas_training
